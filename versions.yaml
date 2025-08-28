@@ -1,6 +1,6 @@
 guestbook:
  image: 
-   tag: v1.0.3
+   tag: v1.0.2
 myservice:
  image: 
    tag: v2.0.0
