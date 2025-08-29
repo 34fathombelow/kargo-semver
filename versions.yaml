@@ -1,6 +1,7 @@
-guestbook:
- image: 
+global:
+  guestbook:
+   image: 
    tag: v1.0.2
-myservice:
- image: 
+  myservice:
+   image: 
    tag: v2.0.0
