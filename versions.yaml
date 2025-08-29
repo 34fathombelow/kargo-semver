@@ -1,7 +1,7 @@
 global:
   guestbook-prod:
    image: 
-   tag: v1.0.2
+   tag: v1.0.3
   myservice-prod:
    image: 
    tag: v2.0.0
